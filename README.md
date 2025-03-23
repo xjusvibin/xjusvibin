@@ -1,4 +1,4 @@
-# 👋 xjusvibin
+# 👋 JusVibin
 
 I’m a tech-focused individual with expertise in coding, gaming, and system optimization. Below is a curated list of **Extremely Useful Websites & Tools** I rely on for development, gaming, productivity, and more. Explore it.
 
