@@ -1,4 +1,4 @@
-# Hi, I'm Hunter 👋
+# 👋 Hi, I'm JusVibin
 
 I build software tools and automation, with a focus on developer tooling and note-taking workflows.
 
