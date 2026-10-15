@@ -4,7 +4,7 @@ I build software tools and automation, with a focus on developer tooling and not
 
 ## Projects
 
-- **[obsidian-constellation-graph](https://github.com/xjusvibin/obsidian-constellation-graph)** - A fluid, orbiting 3D constellation view of your notes for Obsidian, with keyboard and screen-reader support. Built with TypeScript.
+- **[obsidian-constellation-graph](https://github.com/xjusvibin/obsidian-constellation-graph)** - Your vault as a living night sky, with a starfighter you can fly through it. A fluid, slowly orbiting 3D map of your notes for Obsidian, with a flying sandbox you can share with up to three friends.
 
 ## Tools I use
 
